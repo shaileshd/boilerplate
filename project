@@ -1,0 +1,52 @@
+<NotepadPlus>
+    <Project name="boilerplate">
+        <Folder name="css">
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\css\main.css" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\css\normalize.css" />
+        </Folder>
+        <Folder name="doc">
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\contribute.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\crossdomain.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\css.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\extend.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\faq.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\htaccess.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\html.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\js.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\misc.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\README.md" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\usage.md" />
+        </Folder>
+        <Folder name="img">
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\img\.gitignore" />
+            <File name="C:\Users\sdsouza\Pictures\web20.gif" />
+        </Folder>
+        <Folder name="js">
+            <Folder name="vendor">
+                <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\js\vendor\jquery-1.8.0.min.js" />
+                <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\js\vendor\modernizr-2.6.1.min.js" />
+            </Folder>
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\js\main.js" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\js\plugins.js" />
+            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\css\screen.css" />
+        </Folder>
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\.gitattributes" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\.gitignore" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\.htaccess" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\404.html" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\apple-touch-icon-114x114-precomposed.png" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\apple-touch-icon-144x144-precomposed.png" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\apple-touch-icon-57x57-precomposed.png" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\apple-touch-icon-72x72-precomposed.png" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\apple-touch-icon-precomposed.png" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\apple-touch-icon.png" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\CHANGELOG.md" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\crossdomain.xml" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\favicon.ico" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\humans.txt" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\index.html" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\LICENSE.md" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\README.md" />
+        <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\robots.txt" />
+    </Project>
+</NotepadPlus>
