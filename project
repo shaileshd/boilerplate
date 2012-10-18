@@ -1,8 +1,9 @@
 <NotepadPlus>
     <Project name="boilerplate">
         <Folder name="css">
-            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\css\main.css" />
-            <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\css\normalize.css" />
+            <File name="css\gridless.css" />
+            <File name="css\main.css" />
+            <File name="css\normalize.css" />
         </Folder>
         <Folder name="doc">
             <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\doc\contribute.md" />
@@ -29,6 +30,7 @@
             <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\js\main.js" />
             <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\js\plugins.js" />
             <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\css\screen.css" />
+            <File name="js\respond.min.js" />
         </Folder>
         <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\.gitattributes" />
         <File name="C:\Users\sdsouza\Desktop\boilerplate\h5bp-html5-boilerplate-2279296\.gitignore" />
